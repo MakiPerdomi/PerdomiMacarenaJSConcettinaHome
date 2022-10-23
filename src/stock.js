@@ -5,7 +5,7 @@ const productos = [
         desc: "Vela de cera de soja con aroma a vainilla y coco",
         precio: 1200,
         aroma: "Vainilla y coco",
-        img:"/img/velaCalcuta.jpg",
+        img:"./public/img/velaCalcuta.jpg",
         cantidad:1
     },
 
@@ -15,7 +15,7 @@ const productos = [
         desc: "Vela de cera de soja con aroma a jazmin",
         precio: 1800,
         aroma: "Jazmin",
-        img: "/img/velonNoel.jpg",
+        img: "./public/img/velonNoel.jpg",
         cantidad:1
     },
 
@@ -25,7 +25,7 @@ const productos = [
         desc: "Vela de cera de soja con aroma a Cher",
         precio: 2000,
         aroma: "Cher",
-        img: "/img/velonNature.jpg",
+        img: "./public/img/velonNature.jpg",
         cantidad:1
     },
 
@@ -35,7 +35,7 @@ const productos = [
         desc: "Vela de cera de soja con aroma a naranja y pimienta rosa",
         precio: 800,
         aroma: "Naranja y pimienta rosa",
-        img: "/img/velaBuenosDeseos.jpg",
+        img: "./public/img/velaBuenosDeseos.jpg",
         cantidad:1
     }
 ];
